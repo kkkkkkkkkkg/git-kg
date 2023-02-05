@@ -10,7 +10,7 @@ public class GitTest {
         System.out.println("你好！2");
         System.out.println("你好！3");
         System.out.println("你好！4");
-        System.out.println("你好！5");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
